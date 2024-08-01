@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > Credit for the method and researches goes to <img style="height:12px;vertical-align:middle;" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-white.png.twimg.1920.png" alt=""> [@jankais3r](https://x.com/jankais3r/status/1442466943697489923) and [TakashiYoshinaga](https://github.com/TakashiYoshinaga/iPhoneCinematicDepthTo3D).
 
-> Basically, I refined the process into a single, convenient Bash script. Where you'll just have to copy-paste and enjoy.
+> Basically, I refined the process into a single, convenient Bash script. Where you'll just have to copy-paste and run.
 
 ## Requirements
 
